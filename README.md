@@ -3,7 +3,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-Equipe">Equipe</a>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ O Estribo é um sistema que facilita o praticante de um esporte a achar
 outros praticantes, para que possam marcar e organizar
 a partida de forma fácil e rápida. 
 
-Crie partidas, participe de torneios, descrubra novos lugares e pessoas para 
+Crie partidas, participe de torneios, descubra novos lugares e pessoas para 
 praticar seu esporte preferido! 💜
 
 ## 🔖 Layout
@@ -47,10 +47,6 @@ Front End - Thalles Dias –  (https://github.com/thalesodias)
 
 Design - Isabelly Filgueira –  (https://github.com/IFilgueira)
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
 ---
 
-Feito com ♥
+Um projeto acadêmico feito com ♥
