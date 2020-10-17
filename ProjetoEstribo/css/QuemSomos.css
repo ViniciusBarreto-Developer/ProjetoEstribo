@@ -1,0 +1,69 @@
+﻿.MesasDadosEstribo{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.ContDados{
+    padding: 1%;
+}
+
+.BordaDados{
+    padding: 5%;
+    border: 3px solid black;
+}
+
+.NomeDados {
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 10%;
+    margin-right: 25%;
+    margin-left: 25%;
+    text-align: center;
+    background-color: #ff4514;
+    border-radius: 50%;
+}
+
+.FundoImg {
+    background-image: url(../img/FundoEquipe.jpg);
+}
+
+.TextoSobreNos{
+    padding: 5%;
+    color: white;
+}
+
+.Contatenos{
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+
+.textoContate {
+    font-weight: bold;
+    color: #ff4514;
+}
+
+.botaoPadrao {
+    background-color: #181e3a;
+    text-align: center;
+    padding: 10px 50px 10px 50px;
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+    .botaoPadrao:hover {
+        background-color: #ff4514;
+        transition-duration: 0.1s;
+        color: black;
+    }
+
+.IcoAviao{
+    width: 5%;
+    margin-bottom: 5%;
+}
+
+.ImgEquipe{
+    border-radius: 50%;
+}

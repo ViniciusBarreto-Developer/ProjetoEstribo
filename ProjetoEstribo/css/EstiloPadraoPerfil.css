@@ -1,0 +1,101 @@
+﻿body {
+    font-family: 'Encode Sans Condensed', sans-serif;
+}
+
+.fundoHeader {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #181e3a;
+    box-shadow: 0px 2px 5px rgba(155, 155, 155, 1);
+}
+
+.imglogo {
+    width: 80%;
+}
+
+.headerlogo {
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.quemsomos {
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-top: 1%;
+    margin-right: 5%;
+    display: inline;
+}
+
+.BotaoDireita {
+    font-size: 120%;
+    color: white;
+    font-weight: bold;
+    margin-top: 2%;
+    margin-left: 0%;
+    margin-right: 10%;
+    display: inline;
+    float: right;
+}
+
+.inteira {
+    width: 100%;
+}
+
+.iconeSair {
+    width: 2%;
+}
+
+.botaomenu {
+    font-weight: bold;
+    color: white;
+    font-size: 150%;
+    margin-right: 10%;
+}
+
+    .botaomenu:hover {
+        transition-duration: 0.2s;
+        color: #ff4514;
+    }
+
+#menu ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+    #menu ul li {
+        display: inline;
+    }
+
+.alinhadodireita {
+    text-align: right;
+}
+
+.icones{
+}
+
+
+.fundoFooter {
+    margin-top: 3%;
+    background-color: #181e3a;
+}
+
+.margemtop {
+    padding-top: 20px;
+}
+
+.imgLogoPreto {
+    width: 20%;
+    float: right;
+    text-align: right;
+    margin-top: 25px;
+    margin-right: 5%;
+    display: inline;
+}
+
+.direitos {
+    margin-top: 150px;
+    text-align: center;
+    color: white;
+}

@@ -1,0 +1,29 @@
+﻿.botaoPadrao {
+    background-color: #181e3a;
+    text-align: center;
+    padding: 25px 90px 25px 90px;
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+    .botaoPadrao:hover {
+        background-color: #ff4514;
+        transition-duration: 0.4s;
+        color: black;
+        text-decoration: none;
+    }
+
+.logoArea{
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.expirada{
+    margin-bottom: 12%;
+}
+
+.botao{
+    margin-bottom: 25%;
+}

@@ -1,0 +1,43 @@
+﻿.blcbemvindo {
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+
+.fundoEsportes {
+    background-image: url('../img/ImgFundoTelaInicial.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 0px 0px 80px 80px;
+}
+
+.text2 {
+    margin-left: 6%;
+    margin-bottom: 15%;
+}
+
+
+
+.botaoPadrao {
+    background-color: #181e3a;
+    text-align: center;
+    padding: 25px 90px 25px 90px;
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+    .botaoPadrao:hover {
+        background-color: #ff4514;
+        transition-duration: 0.4s;
+        color: black;
+    }
+
+.imagemfundo {
+    border-radius: 100px;
+}
+
+.espacamentos {
+    padding-top:5%;
+    padding-bottom:2%;
+}

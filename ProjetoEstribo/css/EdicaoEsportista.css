@@ -1,0 +1,15 @@
+﻿.imgEdicao{
+    border-radius: 20%;
+    width: 300px;
+    margin-top: 30px;
+    margin-right: 100px;
+    margin-left: 250px;
+    margin-bottom: 30px;
+}
+
+.TodosEsportes {
+    margin-top: 3%;
+    position: relative;
+    overflow: auto;
+    height: 300px;
+}

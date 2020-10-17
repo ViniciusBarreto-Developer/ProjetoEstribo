@@ -1,0 +1,84 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPerfil.master.cs" Inherits="pg_Perfil_MasterPerfil" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <link href="https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed&display=swap" rel="stylesheet">
+    <link href="../../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="../../css/EstiloPadraoPerfil.css" rel="stylesheet" />
+    <script src="https://kit.fontawesome.com/652d77dc4b.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <header>
+                <div class="fundoHeader">
+                    <table class="inteira">
+                        <tr>
+                            <td>
+                                <table>
+                                    <tr>
+                                        <td>
+                                            <a style="text-decoration: none;" href="EsportistaPerfil.aspx">
+                                                <img class="imglogo" src="../../img/Estribo%20menor.png" />
+                                            </a>
+                                        </td>
+                                        <%--<td>
+                                            <asp:TextBox ID="Pesquisa1" ClientIDMode="Static" AutoCompleteType="search" placeholder="PESQUISA" Width="80%" runat="server" />
+                                            <asp:ImageButton runat="server" ImageUrl="~/img/Outros/search.png" Width="10%" ImageAlign="AbsMiddle" AlternateText="Pesquisar" />
+                                        </td>--%>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td>
+                                <nav class="alinhadodireita" id="menu">
+                                    <ul style="list-style-type: none">
+                                        <li><a style="text-decoration: none" class="botaomenu" href="QuemSomos.aspx">Quem Somos?</a></li>
+                                        <li><a style="text-decoration: none" class="botaomenu" href="EditarDadosEsportista.aspx"><i class="far fa-edit"></i>
+                                            Editar</a></li>
+                                        <li>
+                                            <asp:LinkButton runat="server" CssClass="botaomenu" Style="text-decoration: none" ID="BtnSair" Text="Sair" OnClick="BtnSair_Click">Sair <i class="fas fa-sign-out-alt"></i></asp:LinkButton>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </td>
+                            
+                        </tr>
+                    </table>
+                </div>
+            </header>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <footer class="fundoFooter">
+                <div class="margemtop">
+                    <div>
+                        <div class="text-center">
+                            <a style="text-decoration: none;" href="https://www.instagram.com/estribo_esportes/" target="_blank">
+                                <img class="iconefooter" src="../../img/icones/Footer/instagram.png" />
+                            </a>
+                            <a style="text-decoration: none;" href="https://www.facebook.com/Estribo-112976033811561" target="_blank">
+                                <img class="iconefooter" src="../../img/icones/Footer/facebook.png" />
+                            </a>
+                            <a style="text-decoration: none;" href="https://outlook.live.com/owa/" target="_blank">
+                                <img class="iconefooter" src="../../img/icones/Footer/email.png" />
+                            </a>
+                        </div>
+                        <p style="color: white; margin-top: 2%" class="text-center">© 2020 Todos os direitos reservados - Estribo</p>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </form>
+</body>
+
+<!-- JQuery, Popper.js, Bootstrap.js -->
+<script src="../../Scripts/jquery-3.0.0.min.js"></script>
+<script src="../../Scripts/popper.js"></script>
+<script src="../../Scripts/bootstrap.js"></script>
+</html>

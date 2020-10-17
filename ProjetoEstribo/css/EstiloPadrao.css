@@ -1,0 +1,60 @@
+﻿body {
+    font-family: 'Encode Sans Condensed', sans-serif;
+}
+
+.fundoHeader {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #181e3a;
+    box-shadow: 0px 2px 5px rgba(155, 155, 155, 1);
+}
+
+.imglogo {
+    width: 20%;
+}
+
+.headerlogo {
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.quemsomos {
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-top: 10px;
+    margin-right: 5%;
+    display: inline;
+}
+
+    .quemsomos:hover {
+        color: #ff4514;
+    }
+
+    .fundoFooter {
+        background-color: #181e3a;
+    }
+
+.iconefooter{
+    width: 45px;
+    margin-top: 0px;
+}
+
+.margemtop {
+    padding-top: 20px;
+}
+
+.imgLogoPreto {
+    width: 20%;
+    float: right;
+    text-align: right;
+    margin-top: 25px;
+    margin-right: 5%;
+    display: inline;
+}
+
+.direitos {
+    margin-top: 150px;
+    text-align: center;
+    color: white;
+}

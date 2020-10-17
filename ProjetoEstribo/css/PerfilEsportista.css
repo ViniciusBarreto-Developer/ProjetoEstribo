@@ -1,0 +1,165 @@
+﻿body {
+}
+
+.imgPerfil {
+    margin-top: 15%;
+    width: 60%;
+    border-radius: 20%;
+}
+
+.editar {
+    width: 5%;
+}
+
+.nomePerfil {
+    font-weight: bold;
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+.nomeOutros {
+    font-weight: bold;
+    width: 100%;
+}
+
+.iconesEsportes {
+    width: 25%;
+}
+
+.imgAmigos {
+    border-radius: 20%;
+    width: 70%;
+    margin: 10%;
+}
+
+.margemTables {
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+.botaoPadrao {
+    background-color: #181e3a;
+    text-align: center;
+    padding: 10px 50px 10px 50px;
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+    .botaoPadrao:hover {
+        background-color: #ff4514;
+        transition-duration: 0.1s;
+        color: black;
+    }
+
+.PartidasMinhas{
+    padding-top: 2%;
+}
+
+.FundoPartidas {
+    color: white;
+    padding: 5% 5% 5% 5%;
+    background-color: #6170bd;
+    border-radius: 15px;
+}
+
+.margemPartidas {
+    padding: 3% 3% 3% 3%;
+}
+
+.partidas{
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+.fundonpessoas {
+    padding-top: 2%;
+    padding-left: 5%;
+    color: white;
+    margin-top: 5%;
+    text-align: center;
+    background-color: #6170bd;
+    border-radius: 15px;
+}
+
+.iconepessoas{
+    width: 100%;
+}
+
+.btn-modal-criar {
+    background-color: #181e3a;
+    text-align: center;
+    padding: 7px 15px 7px 15px;
+    border-radius: 40px;
+    color: white;
+    font-size: 17px;
+    list-style-type: none;
+}
+
+    .btn-modal-criar:hover {
+        background-color:  #181e3a;
+        transition-duration: 0.1s;
+        color: white;
+        text-decoration: none;
+    }
+
+.btn-modal-sair {
+    background-color: darkred;
+    text-align: center;
+    padding: 7px 15px 7px 15px;
+    border-radius: 40px;
+    color: white;
+    font-size: 17px;
+    list-style-type: none;
+}
+
+    .btn-modal-sair:hover {
+        background-color: red;
+        transition-duration: 0.1s;
+        color: white;
+        text-decoration: none;
+    }
+
+
+.botaoVerMais {
+    border-radius: 15px;
+    padding: 1% 5% 1% 5%;
+    background-color: #6170bd;
+    text-align: right;
+    color: white;
+}
+
+    .botaoVerMais:hover {
+        background-color: #181e3a;
+        transition-duration: 0.1s;
+        color: white;
+    }
+
+.TodosEventos {
+    margin-top: 2%;
+    position: relative;
+    overflow: auto;
+    height: 270px;
+}
+.txtAuto{
+    width: auto;
+}
+
+.botaoConcluir{
+    margin-top: 10%;
+}
+
+.botaoPesquisar {
+    border-radius: 30px;
+    padding: 7px 20px;
+    margin-right: 30%;
+    margin-left: 30%;
+    background-color: #181e3a;
+    color: white;
+}
+
+    .botaoPesquisar:hover {
+        background-color: #6170bd;
+        color: white;
+    }

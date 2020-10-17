@@ -1,0 +1,207 @@
+﻿body {
+}
+
+.imgPerfil {
+    margin-top: 15%;
+    width: 60%;
+    border-radius: 20%;
+}
+
+.imgEdicao {
+    border-radius: 20%;
+    width: 300px;
+}
+
+.botaoAdd {
+    color: white;
+    border-radius: 30px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-right: 30%;
+    margin-left: 30%;
+    background-color: #181e3a;
+}
+
+    .botaoAdd:hover {
+        background-color: #6170bd ;
+    }
+
+.editar {
+    width: 5%;
+}
+
+.nomePerfil {
+    font-weight: bold;
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+.nomeOutros {
+    font-weight: bold;
+    width: 100%;
+}
+
+.iconesEsportes {
+    width: 25%;
+}
+
+.imgAmigos {
+    border-radius: 20%;
+    width: 70%;
+    margin: 10%;
+}
+
+.EspacoPraticas {
+    margin-top: 30%;
+}
+
+.EspacoContatenos {
+    margin-top: 20%;
+}
+
+.espacoCheckin {
+    margin-top: 20%;
+}
+
+.iconeContato {
+    width: 100%;
+}
+
+.margemTables {
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+.botaoPadrao {
+    background-color: #181e3a;
+    text-align: center;
+    padding: 10px 50px 10px 50px;
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+    .botaoPadrao:hover {
+        background-color: #ff4514;
+        transition-duration: 0.1s;
+        color: black;
+    }
+
+.FundoPartidas {
+    color: white;
+    padding: 5% 5% 5% 5%;
+    background-color: #6170bd;
+    border-radius: 15px;
+}
+
+.margemPartidas {
+    padding: 3% 3% 3% 3%;
+}
+
+.partidas {
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+.fundonpessoas {
+    padding-top: 2%;
+    padding-left: 5%;
+    color: white;
+    margin-top: 5%;
+    text-align: center;
+    background-color: #6170bd;
+    border-radius: 15px;
+}
+
+.iconepessoas {
+    width: 100%;
+}
+
+.MargemEventos {
+    padding: 5%;
+    padding-bottom: 2%;
+}
+
+.eventosDesc {
+    box-shadow: 4px 4px 4px rgba(0,0,0,0.3);
+    border-radius: 20px;
+    color: white;
+    padding: 4%;
+    background-color: #6170bd;
+}
+
+
+.meusEventos {
+    margin-top: 7%;
+}
+
+.nomeEvento {
+    margin-bottom: 7%;
+}
+
+.botaoVerMais {
+    border-radius: 30px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-right: 30%;
+    margin-left: 30%;
+    background-color: #6170bd;
+}
+
+    .botaoVerMais:hover {
+        background-color: #181e3a;
+    }
+
+.Vermais {
+    color: white;
+    text-align: center;
+}
+
+.HorarioFuncionamento {
+    margin-top: 10%;
+}
+
+.HorarioMargem {
+    margin-bottom: 3%;
+}
+
+.TodosEventos {
+    position: relative;
+    overflow: auto;
+    height: 300px;
+}
+
+.btn-modal-criar {
+    background-color: #181e3a;
+    text-align: center;
+    padding: 7px 15px 7px 15px;
+    border-radius: 40px;
+    color: white;
+    font-size: 17px;
+    list-style-type: none;
+}
+
+    .btn-modal-criar:hover {
+        background-color: #181e3a;
+        transition-duration: 0.1s;
+        color: white;
+        text-decoration: none;
+    }
+
+.btn-modal-sair {
+    background-color: darkred;
+    text-align: center;
+    padding: 7px 15px 7px 15px;
+    border-radius: 40px;
+    color: white;
+    font-size: 17px;
+    list-style-type: none;
+}
+
+    .btn-modal-sair:hover {
+        background-color: red;
+        transition-duration: 0.1s;
+        color: white;
+        text-decoration: none;
+    }

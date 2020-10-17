@@ -1,0 +1,52 @@
+﻿body {
+    font-family: 'Encode Sans Condensed', sans-serif;
+}
+
+.imgtamanho {
+    border-radius: 50%;
+    width: 50%;
+    margin-bottom: 10%;
+}
+
+.botaousuarios {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    text-align: center;
+}
+
+.botaoPadrao {
+    background-color: #181e3a;
+    text-align: center;
+    padding: 25px 90px 25px 90px;
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+    .botaoPadrao:hover {
+        background-color: #ff4514;
+        transition-duration: 0.4s;
+        color: black;
+    }
+
+.botaoVoltar {
+    background-color: #181e3a;
+    text-align: center;
+    padding: 10px 50px 10px 50px;
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+    .botaoVoltar:hover {
+        background-color: #ff4514;
+        transition-duration: 0.4s;
+        color: black;
+    }
+
+.margins {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

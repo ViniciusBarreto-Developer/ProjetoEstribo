@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="Pags_MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="../css/EstiloPadrao.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Encode+Sans+Condensed&display=swap" rel="stylesheet">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <div class="fundoHeader">
+                <a style="text-decoration: none;" href="Principal.aspx">
+                    <img class="imglogo" src="../img/Estribo%20menor.png" />
+                </a>
+                <a class="quemsomos" style="text-decoration: none; font-size: 160%;" href="QuemSomos.aspx">Quem Somos</a>
+            </div>
+        </header>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <footer class="fundoFooter">
+            <div class="margemtop">
+                <div>
+                    <div class="text-center">
+                        <a style="text-decoration: none;" href="https://www.instagram.com/estribo_esportes/" target="_blank">
+                            <img class="iconefooter" src="../img/icones/Footer/instagram.png" />
+                        </a>
+                        <a style="text-decoration: none;" href="https://www.facebook.com/Estribo-112976033811561" target="_blank">
+                            <img class="iconefooter" src="../img/icones/Footer/facebook.png" />
+                        </a>
+                        <a style="text-decoration: none;" href="https://outlook.live.com/owa/" target="_blank">
+                            <img class="iconefooter" src="../img/icones/Footer/email.png" />
+                        </a>
+                    </div>
+                    <p style="color: white; margin-top: 1%" class="text-center">© 2020 Todos os direitos reservados - Estribo</p>
+                </div>
+            </div>
+        </footer>
+    </form>
+</body>
+</html>
