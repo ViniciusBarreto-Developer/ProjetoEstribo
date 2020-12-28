@@ -2,7 +2,7 @@
 <p align="center">  
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Telas do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Equipe">Equipe</a>
 </p>
 
@@ -35,9 +35,9 @@ a partida de forma fácil e rápida.
 Crie partidas, participe de torneios, descubra novos lugares e pessoas para 
 praticar seu esporte preferido! 💜
 
-## 🔖 Layout
+## 🔖 Telas do Projeto
 
-- Carregando...
+- https://www.behance.net/gallery/110321289/Estribo
 
 ## 🥇 Equipe
 
